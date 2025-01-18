@@ -15,7 +15,7 @@ export default function Home() {
         <CardHeader className="flex items-center space-x-4 flex-row ">
           <Avatar>
             <AvatarImage
-              src="/assets/profile-thumbnail.png"
+              src="https://KevinYingWeiYeh.github.io/my-nextjs-card/assets/profile-thumbnail.png"
               alt="Profile Picture"
               className="w-12 h-12"
             />
