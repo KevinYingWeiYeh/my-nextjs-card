@@ -1,4 +1,3 @@
-import { Button } from "@/components/ui/button";
 import {
   Card,
   CardContent,
@@ -30,9 +29,9 @@ export default function Home() {
         </CardHeader>
         <CardContent className="pt-4">
           <p className="text-lg text-gray-700">
-            I've been searching for high-quality abstract images for my design
-            projects, and I'm thrilled to have found this platform. The variety
-            and depth of creativity are astounding!
+            I&apos;ve been searching for high-quality abstract images for my
+            design projects, and I&apos;m thrilled to have found this platform.
+            The variety and depth of creativity are astounding!
           </p>
         </CardContent>
       </Card>
